@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 0"
+date:   2022-07-16 14:02:02 -0700
+categories: blog
+---
+
+I'm starting the counter with the conception of this blog - Day 0.  Today I spent over two hours trying to use a community submitted theme for this.  I failed, multiple times and eventually accepted the default jekyll theme (maybe to come back and try again?).  Hopefully its possible to come back to this without destroying my configuration.  It's astonishing how every facet of development can go so deep.  What I mean is, anything you look at - javascript, websites, no matter what it is the depth of it can be overwhelming.  Everyone I've talked to has said the same thing; "You're gonna' wanna' bash your head into a wall, and then it just 'clicks'".  I sure hope this is the case, so far it just feels like every new concept plunges me into confusion.  I fear that every bit of new information will simply bury me deeper in a sea of concepts I dont understand.
