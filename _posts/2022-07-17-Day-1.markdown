@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 1"
+date:   2022-07-17 13:46:00 -0700
+categories: blog
+---
+
+Today I finished the JavaScript fundamentals section prior to my first class on monday.  Although looking back I probably couldnt answer many syntax or terminology related questions, this run through felt different.  Some new concepts were built on more basic ones we went over in previous labs, and I think im beginning to understand how this program really works.  Passing the labs and ultimately the short test felt like a breeze.  Where previously I had to peek at the answers, this time I was able to write about 90% of the code on my own, and inevitably had to still peek at the solution.  Even though I cheated a little bit, I did feel accomplished.  The things that didnt feel solidified in my mind were definitely buried in there somewhere.  I hope this sort of progress continues, I felt much less discouraged today.
